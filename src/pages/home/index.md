@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
+  image: /img/annie-spratt-608001-unsplash.jpg
   imageAlt: JavaScript Wakanda
 title: Welcome
 upcomingMeetupHeading: Upcoming Meetup
